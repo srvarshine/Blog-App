@@ -14,7 +14,7 @@
     [:body
      [:div.container
       [:nav.navbar.navbar-expand-lg.navbar-light.bd-light
-       [:a.navabar-brand {:href "/"}  "CljBlog"]
+       [:a.navabar-brand {:href "/"}  "BLOG"]
        [:div.navbar-nav.ml-auto
         [:a.nav-item.nav-link {:href "/articles/new"} "New article!"]
         [:a.nav-item.nav-link {:href "/admin/login"} "LogIn"]
